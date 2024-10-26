@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login IMC</string>
+    <string name="btn_name_login">Ingresar</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_record_pass">Recordar Contraseña</string>
+    <string name="txt_nombre">Ingresa nombre</string>
+    <string name="btn_registrar">Registrar</string>
+</resources>
